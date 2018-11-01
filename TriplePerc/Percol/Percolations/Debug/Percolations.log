@@ -1,0 +1,168 @@
+﻿  Percolations.cpp
+d:\misha\универ\2018-19\к курсово\tripleperc\percol\percolations\percolations.cpp(81): error C2535: bool HexLattice::CheckPercolA(void): функция-член уже определена или объявлена
+  d:\misha\универ\2018-19\к курсово\tripleperc\percol\percolations\percolations.cpp(74): note:  см. объявление "HexLattice::CheckPercolA"
+d:\misha\универ\2018-19\к курсово\tripleperc\percol\percolations\percolations.cpp(88): error C2535: bool HexLattice::CheckPercolA(void): функция-член уже определена или объявлена
+  d:\misha\универ\2018-19\к курсово\tripleperc\percol\percolations\percolations.cpp(74): note:  см. объявление "HexLattice::CheckPercolA"
+d:\misha\универ\2018-19\к курсово\tripleperc\percol\percolations\percolations.cpp(29): error C2065: gen: необъявленный идентификатор
+d:\misha\универ\2018-19\к курсово\tripleperc\percol\percolations\percolations.cpp(29): error C3861: distribution: идентификатор не найден
+d:\misha\универ\2018-19\к курсово\tripleperc\percol\percolations\percolations.cpp(31): error C2664: "void std::_Tree<std::_Tset_traits<_Kty,_Pr,_Alloc,false>>::insert(std::initializer_list<std::pair<int,int>>)": невозможно преобразовать аргумент 1 из "int" в "const std::pair<int,int> &"
+          with
+          [
+              _Kty=std::pair<int,int>,
+              _Pr=std::less<std::pair<int,int>>,
+              _Alloc=std::allocator<std::pair<int,int>>
+          ]
+  d:\misha\универ\2018-19\к курсово\tripleperc\percol\percolations\percolations.cpp(31): note: Причина: невозможно преобразовать "int" в "const std::pair<int,int>"
+  d:\misha\универ\2018-19\к курсово\tripleperc\percol\percolations\percolations.cpp(31): note: Ни один конструктор не смог принять исходный тип, либо разрешение перегрузки конструктора неоднозначно
+d:\misha\универ\2018-19\к курсово\tripleperc\percol\percolations\percolations.cpp(32): error C3536: a: не может использоваться до инициализации
+d:\misha\универ\2018-19\к курсово\tripleperc\percol\percolations\percolations.cpp(32): error C2664: "void std::_Tree<std::_Tset_traits<_Kty,_Pr,_Alloc,false>>::insert(std::initializer_list<std::pair<int,int>>)": невозможно преобразовать аргумент 1 из "int" в "const std::pair<int,int> &"
+          with
+          [
+              _Kty=std::pair<int,int>,
+              _Pr=std::less<std::pair<int,int>>,
+              _Alloc=std::allocator<std::pair<int,int>>
+          ]
+  d:\misha\универ\2018-19\к курсово\tripleperc\percol\percolations\percolations.cpp(32): note: Причина: невозможно преобразовать "int" в "const std::pair<int,int>"
+  d:\misha\универ\2018-19\к курсово\tripleperc\percol\percolations\percolations.cpp(32): note: Ни один конструктор не смог принять исходный тип, либо разрешение перегрузки конструктора неоднозначно
+d:\misha\универ\2018-19\к курсово\tripleperc\percol\percolations\percolations.cpp(33): error C2664: "void std::_Tree<std::_Tset_traits<_Kty,_Pr,_Alloc,false>>::insert(std::initializer_list<std::pair<int,int>>)": невозможно преобразовать аргумент 1 из "int" в "const std::pair<int,int> &"
+          with
+          [
+              _Kty=std::pair<int,int>,
+              _Pr=std::less<std::pair<int,int>>,
+              _Alloc=std::allocator<std::pair<int,int>>
+          ]
+  d:\misha\универ\2018-19\к курсово\tripleperc\percol\percolations\percolations.cpp(33): note: Причина: невозможно преобразовать "int" в "const std::pair<int,int>"
+  d:\misha\универ\2018-19\к курсово\tripleperc\percol\percolations\percolations.cpp(33): note: Ни один конструктор не смог принять исходный тип, либо разрешение перегрузки конструктора неоднозначно
+d:\misha\универ\2018-19\к курсово\tripleperc\percol\percolations\percolations.cpp(36): error C2664: "void std::_Tree<std::_Tset_traits<_Kty,_Pr,_Alloc,false>>::insert(std::initializer_list<std::pair<int,int>>)": невозможно преобразовать аргумент 1 из "int" в "const std::pair<int,int> &"
+          with
+          [
+              _Kty=std::pair<int,int>,
+              _Pr=std::less<std::pair<int,int>>,
+              _Alloc=std::allocator<std::pair<int,int>>
+          ]
+  d:\misha\универ\2018-19\к курсово\tripleperc\percol\percolations\percolations.cpp(36): note: Причина: невозможно преобразовать "int" в "const std::pair<int,int>"
+  d:\misha\универ\2018-19\к курсово\tripleperc\percol\percolations\percolations.cpp(36): note: Ни один конструктор не смог принять исходный тип, либо разрешение перегрузки конструктора неоднозначно
+d:\misha\универ\2018-19\к курсово\tripleperc\percol\percolations\percolations.cpp(39): error C2664: "void std::_Tree<std::_Tset_traits<_Kty,_Pr,_Alloc,false>>::insert(std::initializer_list<std::pair<int,int>>)": невозможно преобразовать аргумент 1 из "int" в "const std::pair<int,int> &"
+          with
+          [
+              _Kty=std::pair<int,int>,
+              _Pr=std::less<std::pair<int,int>>,
+              _Alloc=std::allocator<std::pair<int,int>>
+          ]
+  d:\misha\универ\2018-19\к курсово\tripleperc\percol\percolations\percolations.cpp(39): note: Причина: невозможно преобразовать "int" в "const std::pair<int,int>"
+  d:\misha\универ\2018-19\к курсово\tripleperc\percol\percolations\percolations.cpp(39): note: Ни один конструктор не смог принять исходный тип, либо разрешение перегрузки конструктора неоднозначно
+d:\misha\универ\2018-19\к курсово\tripleperc\percol\percolations\percolations.cpp(42): error C2664: "void std::_Tree<std::_Tset_traits<_Kty,_Pr,_Alloc,false>>::insert(std::initializer_list<std::pair<int,int>>)": невозможно преобразовать аргумент 1 из "int" в "const std::pair<int,int> &"
+          with
+          [
+              _Kty=std::pair<int,int>,
+              _Pr=std::less<std::pair<int,int>>,
+              _Alloc=std::allocator<std::pair<int,int>>
+          ]
+  d:\misha\универ\2018-19\к курсово\tripleperc\percol\percolations\percolations.cpp(42): note: Причина: невозможно преобразовать "int" в "const std::pair<int,int>"
+  d:\misha\универ\2018-19\к курсово\tripleperc\percol\percolations\percolations.cpp(42): note: Ни один конструктор не смог принять исходный тип, либо разрешение перегрузки конструктора неоднозначно
+d:\misha\универ\2018-19\к курсово\tripleperc\percol\percolations\percolations.cpp(48): error C2065: gen: необъявленный идентификатор
+d:\misha\универ\2018-19\к курсово\tripleperc\percol\percolations\percolations.cpp(48): error C3861: distribution: идентификатор не найден
+d:\misha\универ\2018-19\к курсово\tripleperc\percol\percolations\percolations.cpp(50): error C2664: "void std::_Tree<std::_Tset_traits<_Kty,_Pr,_Alloc,false>>::insert(std::initializer_list<std::pair<int,int>>)": невозможно преобразовать аргумент 1 из "int" в "const std::pair<int,int> &"
+          with
+          [
+              _Kty=std::pair<int,int>,
+              _Pr=std::less<std::pair<int,int>>,
+              _Alloc=std::allocator<std::pair<int,int>>
+          ]
+  d:\misha\универ\2018-19\к курсово\tripleperc\percol\percolations\percolations.cpp(50): note: Причина: невозможно преобразовать "int" в "const std::pair<int,int>"
+  d:\misha\универ\2018-19\к курсово\tripleperc\percol\percolations\percolations.cpp(50): note: Ни один конструктор не смог принять исходный тип, либо разрешение перегрузки конструктора неоднозначно
+d:\misha\универ\2018-19\к курсово\tripleperc\percol\percolations\percolations.cpp(51): error C3536: a: не может использоваться до инициализации
+d:\misha\универ\2018-19\к курсово\tripleperc\percol\percolations\percolations.cpp(51): error C2664: "void std::_Tree<std::_Tset_traits<_Kty,_Pr,_Alloc,false>>::insert(std::initializer_list<std::pair<int,int>>)": невозможно преобразовать аргумент 1 из "int" в "const std::pair<int,int> &"
+          with
+          [
+              _Kty=std::pair<int,int>,
+              _Pr=std::less<std::pair<int,int>>,
+              _Alloc=std::allocator<std::pair<int,int>>
+          ]
+  d:\misha\универ\2018-19\к курсово\tripleperc\percol\percolations\percolations.cpp(51): note: Причина: невозможно преобразовать "int" в "const std::pair<int,int>"
+  d:\misha\универ\2018-19\к курсово\tripleperc\percol\percolations\percolations.cpp(51): note: Ни один конструктор не смог принять исходный тип, либо разрешение перегрузки конструктора неоднозначно
+d:\misha\универ\2018-19\к курсово\tripleperc\percol\percolations\percolations.cpp(52): error C2664: "void std::_Tree<std::_Tset_traits<_Kty,_Pr,_Alloc,false>>::insert(std::initializer_list<std::pair<int,int>>)": невозможно преобразовать аргумент 1 из "int" в "const std::pair<int,int> &"
+          with
+          [
+              _Kty=std::pair<int,int>,
+              _Pr=std::less<std::pair<int,int>>,
+              _Alloc=std::allocator<std::pair<int,int>>
+          ]
+  d:\misha\универ\2018-19\к курсово\tripleperc\percol\percolations\percolations.cpp(52): note: Причина: невозможно преобразовать "int" в "const std::pair<int,int>"
+  d:\misha\универ\2018-19\к курсово\tripleperc\percol\percolations\percolations.cpp(52): note: Ни один конструктор не смог принять исходный тип, либо разрешение перегрузки конструктора неоднозначно
+d:\misha\универ\2018-19\к курсово\tripleperc\percol\percolations\percolations.cpp(55): error C2664: "void std::_Tree<std::_Tset_traits<_Kty,_Pr,_Alloc,false>>::insert(std::initializer_list<std::pair<int,int>>)": невозможно преобразовать аргумент 1 из "int" в "const std::pair<int,int> &"
+          with
+          [
+              _Kty=std::pair<int,int>,
+              _Pr=std::less<std::pair<int,int>>,
+              _Alloc=std::allocator<std::pair<int,int>>
+          ]
+  d:\misha\универ\2018-19\к курсово\tripleperc\percol\percolations\percolations.cpp(55): note: Причина: невозможно преобразовать "int" в "const std::pair<int,int>"
+  d:\misha\универ\2018-19\к курсово\tripleperc\percol\percolations\percolations.cpp(55): note: Ни один конструктор не смог принять исходный тип, либо разрешение перегрузки конструктора неоднозначно
+d:\misha\универ\2018-19\к курсово\tripleperc\percol\percolations\percolations.cpp(58): error C2664: "void std::_Tree<std::_Tset_traits<_Kty,_Pr,_Alloc,false>>::insert(std::initializer_list<std::pair<int,int>>)": невозможно преобразовать аргумент 1 из "int" в "const std::pair<int,int> &"
+          with
+          [
+              _Kty=std::pair<int,int>,
+              _Pr=std::less<std::pair<int,int>>,
+              _Alloc=std::allocator<std::pair<int,int>>
+          ]
+  d:\misha\универ\2018-19\к курсово\tripleperc\percol\percolations\percolations.cpp(58): note: Причина: невозможно преобразовать "int" в "const std::pair<int,int>"
+  d:\misha\универ\2018-19\к курсово\tripleperc\percol\percolations\percolations.cpp(58): note: Ни один конструктор не смог принять исходный тип, либо разрешение перегрузки конструктора неоднозначно
+d:\misha\универ\2018-19\к курсово\tripleperc\percol\percolations\percolations.cpp(61): error C2664: "void std::_Tree<std::_Tset_traits<_Kty,_Pr,_Alloc,false>>::insert(std::initializer_list<std::pair<int,int>>)": невозможно преобразовать аргумент 1 из "int" в "const std::pair<int,int> &"
+          with
+          [
+              _Kty=std::pair<int,int>,
+              _Pr=std::less<std::pair<int,int>>,
+              _Alloc=std::allocator<std::pair<int,int>>
+          ]
+  d:\misha\универ\2018-19\к курсово\tripleperc\percol\percolations\percolations.cpp(61): note: Причина: невозможно преобразовать "int" в "const std::pair<int,int>"
+  d:\misha\универ\2018-19\к курсово\tripleperc\percol\percolations\percolations.cpp(61): note: Ни один конструктор не смог принять исходный тип, либо разрешение перегрузки конструктора неоднозначно
+d:\misha\универ\2018-19\к курсово\tripleperc\percol\percolations\percolations.cpp(67): error C2440: return: невозможно преобразовать "initializer list" в "std::set<std::pair<int,int>,std::less<_Kty>,std::allocator<_Kty>>"
+          with
+          [
+              _Kty=std::pair<int,int>
+          ]
+  d:\misha\универ\2018-19\к курсово\tripleperc\percol\percolations\percolations.cpp(67): note: Ни один конструктор не смог принять исходный тип, либо разрешение перегрузки конструктора неоднозначно
+d:\misha\универ\2018-19\к курсово\tripleperc\percol\percolations\percolations.cpp(77): error C2065: self: необъявленный идентификатор
+d:\misha\универ\2018-19\к курсово\tripleperc\percol\percolations\percolations.cpp(77): error C2228: выражение слева от ".size" должно представлять класс, структуру или объединение
+  d:\misha\универ\2018-19\к курсово\tripleperc\percol\percolations\percolations.cpp(77): note: тип: unknown-type
+d:\misha\универ\2018-19\к курсово\tripleperc\percol\percolations\percolations.cpp(77): error C2660: HexLattice::dfs: функция не принимает 1 аргументов
+d:\misha\универ\2018-19\к курсово\tripleperc\percol\percolations\percolations.cpp(78): error C2065: BoardVisited: необъявленный идентификатор
+d:\misha\универ\2018-19\к курсово\tripleperc\percol\percolations\percolations.cpp(84): error C2065: self: необъявленный идентификатор
+d:\misha\универ\2018-19\к курсово\tripleperc\percol\percolations\percolations.cpp(84): error C2228: выражение слева от ".size" должно представлять класс, структуру или объединение
+  d:\misha\универ\2018-19\к курсово\tripleperc\percol\percolations\percolations.cpp(84): note: тип: unknown-type
+d:\misha\универ\2018-19\к курсово\tripleperc\percol\percolations\percolations.cpp(84): error C2660: HexLattice::dfs: функция не принимает 1 аргументов
+d:\misha\универ\2018-19\к курсово\tripleperc\percol\percolations\percolations.cpp(85): error C2065: BoardVisited: необъявленный идентификатор
+d:\misha\универ\2018-19\к курсово\tripleperc\percol\percolations\percolations.cpp(91): error C2065: self: необъявленный идентификатор
+d:\misha\универ\2018-19\к курсово\tripleperc\percol\percolations\percolations.cpp(91): error C2228: выражение слева от ".size" должно представлять класс, структуру или объединение
+  d:\misha\универ\2018-19\к курсово\tripleperc\percol\percolations\percolations.cpp(91): note: тип: unknown-type
+d:\misha\универ\2018-19\к курсово\tripleperc\percol\percolations\percolations.cpp(91): error C2660: HexLattice::dfs: функция не принимает 1 аргументов
+d:\misha\универ\2018-19\к курсово\tripleperc\percol\percolations\percolations.cpp(92): error C2065: BoardVisited: необъявленный идентификатор
+d:\misha\универ\2018-19\к курсово\tripleperc\percol\percolations\percolations.cpp(99): error C2143: синтаксическая ошибка: отсутствие ";" перед ")"
+d:\misha\универ\2018-19\к курсово\tripleperc\percol\percolations\percolations.cpp(99): error C2451: недопустимое условное выражение типа "std::_Tree_const_iterator<std::_Tree_val<std::_Tree_simple_types<_Ty>>>"
+          with
+          [
+              _Ty=std::pair<int,int>
+          ]
+  d:\misha\универ\2018-19\к курсово\tripleperc\percol\percolations\percolations.cpp(99): note: Для выполнения данного преобразования нет доступного оператора преобразования, определенного пользователем, или вызов оператора невозможен
+d:\misha\универ\2018-19\к курсово\tripleperc\percol\percolations\percolations.cpp(105): error C2143: синтаксическая ошибка: отсутствие ";" перед ")"
+d:\misha\универ\2018-19\к курсово\tripleperc\percol\percolations\percolations.cpp(105): error C2451: недопустимое условное выражение типа "std::_Tree_const_iterator<std::_Tree_val<std::_Tree_simple_types<_Ty>>>"
+          with
+          [
+              _Ty=std::pair<int,int>
+          ]
+  d:\misha\универ\2018-19\к курсово\tripleperc\percol\percolations\percolations.cpp(105): note: Для выполнения данного преобразования нет доступного оператора преобразования, определенного пользователем, или вызов оператора невозможен
+d:\misha\универ\2018-19\к курсово\tripleperc\percol\percolations\percolations.cpp(106): error C2676: бинарный "[": "std::_Tree_const_iterator<std::_Tree_val<std::_Tree_simple_types<_Ty>>>" не определяет этот оператор или преобразование к типу приемлемо к встроенному оператору
+          with
+          [
+              _Ty=std::pair<int,int>
+          ]
+d:\misha\универ\2018-19\к курсово\tripleperc\percol\percolations\percolations.cpp(106): error C2088: [: недопустимо для class
+d:\misha\универ\2018-19\к курсово\tripleperc\percol\percolations\percolations.cpp(106): error C2660: HexLattice::IsInBoard: функция не принимает 1 аргументов
+d:\misha\универ\2018-19\к курсово\tripleperc\percol\percolations\percolations.cpp(109): error C2676: бинарный "[": "std::_Tree_const_iterator<std::_Tree_val<std::_Tree_simple_types<_Ty>>>" не определяет этот оператор или преобразование к типу приемлемо к встроенному оператору
+          with
+          [
+              _Ty=std::pair<int,int>
+          ]
+d:\misha\универ\2018-19\к курсово\tripleperc\percol\percolations\percolations.cpp(109): error C2088: [: недопустимо для class
+d:\misha\универ\2018-19\к курсово\tripleperc\percol\percolations\percolations.cpp(109): error C2660: HexLattice::dfs: функция не принимает 1 аргументов
